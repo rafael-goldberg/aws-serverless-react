@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.1136.0"
+  },
+  "devDependencies": {
+    "serverless-s3-sync": "^3.0.0"
+  }
+}
